@@ -1,3 +1,5 @@
+## Assignments and Projects developed for Langara College's CPSC 1045 
+---------------------------------------------------------------
 ### CPSC 1045: Introduction to Web Programming  
 Course Description:<br/>
 Introduction to programming with a modern programming language (e.g., JavaScript) in a web-based environment.  
